@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @7VREW
+- 👀 I’m multidisciplinary artist
+- 🌱 I’m currently learning Swift at the Apple Foundation.
+- 📫 Reach me at ✨7vrew.com✨
