@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @7VREW
 - 👀 Multidisciplinary artist
-- 🌱 Currently learning Swift at the Apple Foundation.
+- 🌱 Apple Foundation Program certified.
 - 📫 Reach me at ✨7vrew.com✨
